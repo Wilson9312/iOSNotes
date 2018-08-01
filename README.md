@@ -180,3 +180,7 @@ Xcode -> project -> Build Settings -> Enable On Demand Resources -> Yes
 ### 总结：
 
 ![思维导图总结](https://user-gold-cdn.xitu.io/2018/8/1/164f47c5dd7a06a2?w=2382&h=2598&f=png&s=623917)
+
+
+![忽略相似名称](https://user-gold-cdn.xitu.io/2018/8/1/164f4074ca1953c1?w=718&h=70&f=png&s=30117)
+

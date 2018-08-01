@@ -9,7 +9,7 @@
 
 - ⚠️注意1：对于使用 imageName_%d 这种方式使用的图片，为了防止误删，建议勾上
 
-![忽略相似名称](https://user-gold-cdn.xitu.io/2018/8/1/164f4074ca1953c1?w=718&h=70&f=png&s=30117)
+![忽略相似名称](https://user-gold-cdn.xitu.io/2018/8/1/164f4c5914538a5e?w=718&h=70&f=png&s=30117)
 
 >使用时我对比了下勾选和不勾选 Ignore similar name 时的搜索结果，对可能会误删的图片进行逐个确定，意外的防止了一次误删！<br>
 图片的名称是这样的，符合 tag_%d 格式：
@@ -180,7 +180,4 @@ Xcode -> project -> Build Settings -> Enable On Demand Resources -> Yes
 ### 总结：
 
 ![思维导图总结](https://user-gold-cdn.xitu.io/2018/8/1/164f47c5dd7a06a2?w=2382&h=2598&f=png&s=623917)
-
-
-![忽略相似名称](https://user-gold-cdn.xitu.io/2018/8/1/164f4074ca1953c1?w=718&h=70&f=png&s=30117)
 
